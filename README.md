@@ -19,6 +19,7 @@ Core Competencies:
 
 📸 In my spare time, I enjoy indulging in my hobbies of photography, cinematography, and music🎶.
 📫 If you have any questions or just want to chat about development, feel free to reach out to me via my email or LinkedIn. I am always happy to connect with others in the tech community
+
  💞️ Thank you for stopping by and I hope you find something interesting on my profile.
 
 
