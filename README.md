@@ -1,3 +1,4 @@
+![universal-linkedin-banner-with-pink-sunset-alps-any-profession_198208-983](https://user-images.githubusercontent.com/91020386/209427739-cfbeac17-3011-4791-828e-ef7d151b13e2.png)
 # Bridging the gap between creativity and technology 
 
 - 👋 Welcome to my GitHub profile! My name is Sithabile Mananga and I am a self-taught, passionate junior fullstack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js) and the react ecosystem. I am currently seeking opportunities to further develop my skills and contribute to a team of experienced professionals. As a junior developer, I am constantly striving to improve my skills and expand my knowledge in the field.
