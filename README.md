@@ -1,10 +1,10 @@
 ![universal-linkedin-banner-with-pink-sunset-alps-any-profession_198208-983](https://user-images.githubusercontent.com/91020386/209427739-cfbeac17-3011-4791-828e-ef7d151b13e2.png)
 # Bridging the gap between creativity and technology 
-
-Hello! My name is Sithabile and I am a junior full-stack developer specializing in the MERN stack (MongoDB, Express, React, and Node.js). I am passionate about using technology to solve real-world problems and improve efficiency. As a developer, I strive to expertly bridge the gap between design and technology, ensuring that the final product is both visually appealing and functional.
-
-Core Competencies:
-
+-
+-Hello! My name is Sithabile and I am a junior full-stack developer specializing in the MERN stack (MongoDB, Express, React, and Node.js). I am passionate about using technology to solve real-world problems and improve efficiency. As a developer, I strive to expertly bridge the gap between design and technology, ensuring that the final product is both visually appealing and functional.
+-
+-Core Competencies
+-
 -Problem solver: I enjoy tackling complex issues and finding creative solutions.
 -Driven by efficiency: I am always looking for ways to optimize and streamline processes.
 -Excellent communication skills: I believe clear and effective communication is key to successful -collaboration.
